@@ -1,6 +1,6 @@
 #!/bin/bash
 
-cd /tmp
+cd /tmp 
 
 # Compress function with pigz for faster compression
 com () 
